@@ -1,0 +1,9 @@
+Category,Precision (%),Recall (%),F1-Score (%),Support
+Access,89.84,89.96,89.9,1425
+Administrative rights,85.76,71.88,78.21,352
+HR Support,86.58,86.9,86.74,2183
+Hardware,83.07,87.15,85.06,2724
+Internal Project,88.67,84.91,86.75,424
+Miscellaneous,83.27,83.22,83.24,1412
+Purchase,94.57,88.24,91.29,493
+Storage,92.5,86.67,89.49,555

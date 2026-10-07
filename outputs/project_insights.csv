@@ -1,0 +1,9 @@
+No.,Project Insight
+1,Linear SVM achieved the best performance for ticket category classification.
+2,Category classification achieved 86.30% accuracy and 86.30% F1-score.
+3,Linear SVM achieved the best performance for priority classification.
+4,Priority classification achieved 97.18% accuracy and 97.10% F1-score.
+5,Administrative rights was the most challenging category based on recall.
+6,High priority had lower recall than Medium and Low priority.
+7,TF-IDF with unigram and bigram features provided effective text representation.
+8,The priority labels were derived using predefined business rules because the original dataset does not contain priority labels.

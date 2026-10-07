@@ -1,0 +1,4 @@
+Priority,Precision (%),Recall (%),F1-Score (%),Support
+High,99.31,81.66,89.62,878
+Low,97.49,99.94,98.7,6580
+Medium,95.43,95.02,95.23,2110
